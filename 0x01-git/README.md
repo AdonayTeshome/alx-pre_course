@@ -1,4 +1,4 @@
-# 0x01-git alx task 
+# 0x01-git ALX-TASK 
 ## 1.Repo-session
 ### Concepts
 For this project, we expect you to look at these concepts:
